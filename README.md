@@ -28,4 +28,4 @@ npm start
 
 * Mobile
 <img width="382" alt="Screen Shot 2022-05-07 at 1 19 17 PM" src="https://user-images.githubusercontent.com/57568263/167244183-f91d1ede-0a77-46a5-955f-08fd65b656d2.png">
-Demo ([https://task2-eta.vercel.app/])
+
