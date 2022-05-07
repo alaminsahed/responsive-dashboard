@@ -1,6 +1,7 @@
 import React from 'react';
 import SideBar from './SideBar';
 import Table from './Table';
+import db from '../db/db1.json';
 
 
 const Body = () => {
@@ -17,7 +18,7 @@ const Body = () => {
                         <hr />
                     </div>
                     <div>
-                        <Table />
+                        <Table data={db} />
                     </div>
                 </div>
             </div>
