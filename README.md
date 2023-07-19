@@ -1,6 +1,8 @@
 # Dashbaord
 
-## Teachnical Stack
+## This project is an interview task as a React.js developer
+
+## Technical Stack
 * React.js
 * Tailwind CSS
 
